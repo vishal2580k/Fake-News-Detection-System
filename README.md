@@ -203,12 +203,15 @@ Clean Text → TF-IDF (50k features, bigrams) → Classifier
 ## 📸 Screenshots
 
 > *(Run the app locally to see the full UI)*
+## 📸 Screenshots
 
-| Page | Description |
-|------|-------------|
-| Analyze News | Dark intelligence theme with live analysis |
-| Dashboard | Interactive Plotly charts |
-| Model Metrics | Performance tables + confusion matrices |
+![UI](screenshots/Screenshot 2026-04-05 150115.png)
+
+![Result](screenshots/Screenshot 2026-04-05 150031.png)
+
+![Dashboard](screenshots/Screenshot 2026-04-05 145951.png)
+
+![Metrics](screenshots/Screenshot 2026-04-05 145911.png)
 
 ---
 
