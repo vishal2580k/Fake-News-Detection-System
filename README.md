@@ -2,10 +2,6 @@
 ### AI-Powered News Sentiment Analysis & Fake News Detection System
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/banner.png" alt="News Sentinel Banner" width="100%"/>
-</p>
-
-<p align="center">
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-1.32-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
   <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-1.4-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
@@ -36,22 +32,22 @@ The system ships with a full ML pipeline (preprocessing → feature engineering 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/analyze_tab.png" alt="Analyze News Tab" width="100%"/>
-      <br/><sub><b>🔍 Analyze News — Text Input</b></sub>
+      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/front%20ui.png" alt="Front UI" width="100%"/>
+      <br/><sub><b>🔍 Analyze News — Front UI</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/results.png" alt="Prediction Results" width="100%"/>
-      <br/><sub><b>📋 Prediction Results with Confidence</b></sub>
+      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/Data%20Dashboard.png" alt="Data Dashboard" width="100%"/>
+      <br/><sub><b>📊 Dataset Dashboard & EDA Charts</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/dashboard.png" alt="Dashboard" width="100%"/>
-      <br/><sub><b>📊 Dataset Dashboard & EDA Charts</b></sub>
+      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/Model%20Perfomarance.png" alt="Model Performance" width="100%"/>
+      <br/><sub><b>📈 Model Performance & Confusion Matrices</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/model_metrics.png" alt="Model Metrics" width="100%"/>
-      <br/><sub><b>📈 Model Performance & Confusion Matrices</b></sub>
+      <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/About%20it.png" alt="About Page" width="100%"/>
+      <br/><sub><b>ℹ️ About — Architecture & Tech Stack</b></sub>
     </td>
   </tr>
 </table>
@@ -193,7 +189,7 @@ Open **http://localhost:8501** in your browser.
 Paste any article text or enter a URL for instant dual-task analysis.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/url_analysis.png" alt="URL Analysis" width="80%"/>
+  <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/front%20ui.png" alt="Front UI & URL Analysis" width="80%"/>
 </p>
 
 **Text tab** — paste full article text, click Analyze.  
@@ -209,7 +205,7 @@ Each result shows:
 ### 📊 Dashboard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/dashboard.png" alt="Dashboard Charts" width="80%"/>
+  <img src="https://raw.githubusercontent.com/vishal2580k/Fake-News-Detection-System/main/screenshots/Data%20Dashboard.png" alt="Dashboard Charts" width="80%"/>
 </p>
 
 Live dataset statistics with Plotly charts:
