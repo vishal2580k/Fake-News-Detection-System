@@ -202,9 +202,6 @@ Clean Text → TF-IDF (50k features, bigrams) → Classifier
 
 ## 📸 Screenshots
 
-> *(Run the app locally to see the full UI)*
-## 📸 Screenshots
-
 ![UI](screenshots/Screenshot 2026-04-05 150115.png)
 
 ![Result](screenshots/Screenshot 2026-04-05 150031.png)
