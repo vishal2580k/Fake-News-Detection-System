@@ -202,14 +202,6 @@ Clean Text → TF-IDF (50k features, bigrams) → Classifier
 
 ## 📸 Screenshots
 
-![UI](screenshots/Screenshot 2026-04-05 150115.png)
-
-![Result](screenshots/Screenshot 2026-04-05 150031.png)
-
-![Dashboard](screenshots/Screenshot 2026-04-05 145951.png)
-
-![Metrics](screenshots/Screenshot 2026-04-05 145911.png)
-
 ---
 
 ## 🔮 Future Improvements
